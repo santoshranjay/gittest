@@ -2,3 +2,5 @@ hello world!
 this is a test file
 some update
 test local/global config
+/* To synchronize your work, you run a git fetch origin command. This command looks up which server origin is (in this case, it’s git.ourcompany.com), fetches any data from it that you don’t yet have, and updates your local database, moving your origin/master pointer to its new, more up-to-date position */
+git fetch origin 
